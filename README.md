@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/nikhilsrivastava2503/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nikhil-srivastava-90a23277/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
-<hr>
+
 Hey All 👋,
 Welcome to my Github Profile. I am a developer currently working in EY as senior consultant with an interest in Web Designing and Algorithms. Feel free to connect with me .
 
