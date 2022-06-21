@@ -5,8 +5,11 @@
 <a href="https://www.instagram.com/nikhilsrivastava2503/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.jpg?raw=true" target="_blank"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/nikhil-srivastava-90a23277/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
+<hr>
+Hey All 👋,
+Welcome to my Github Profile. I am a developer currently working in EY as senior consultant with an interest in Web Designing and Algorithms. Feel free to connect with me .
 
-
+[![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil050394)](https://github.com/nikhil050394/github-readme-stats)
 
 <!---
 nikhil050394/nikhil050394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
