@@ -1,4 +1,4 @@
-# ![I'm Nikhil](https://user-images.githubusercontent.com/16606820/174744902-625cb253-58f4-4248-888a-f67425312bd7.gif)
+# ![LinkedIn Cover 1584x396 px](https://user-images.githubusercontent.com/16606820/174751201-560e64ca-4120-4832-8893-a494b06a2b87.gif)
 
 - 
 - 👋 Hi, I’m @nikhil050394
