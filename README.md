@@ -10,7 +10,7 @@ Hey All 👋,
 Welcome to my Github Profile. I am a developer currently working in EY as senior consultant with an interest in Web Designing and Algorithms. Feel free to connect with me .
 
 [![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikhil050394)](https://github.com/nikhil050394/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nikhil050394&layout=compact)](https://github.com/nikhil050394/github-readme-stats)
 <!---
 nikhil050394/nikhil050394 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
